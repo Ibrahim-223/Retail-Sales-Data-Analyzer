@@ -1,0 +1,501 @@
+date(yyyy-mm-dd),product,category,price,quantity sold,total sales
+3/5/2025,Headphones,Computers,50969,1,50969
+2/8/2025,Monitor,Computers,46594,16,745504
+3/31/2025,Laptop,Accessories,53765,3,161295
+4/30/2025,Keyboard,Electronics,42111,4,168444
+3/29/2025,Smartphone,Electronics,25883,19,491777
+6/16/2025,Monitor,Electronics,22793,2,45586
+2/22/2025,Mouse,Office Supplies,82006,9,738054
+3/14/2025,Headphones,Accessories,3549,20,70980
+2/28/2025,Router,Accessories,56109,8,448872
+8/2/2025,Laptop,Electronics,99612,1,99612
+5/8/2025,Keyboard,Accessories,40690,17,691730
+8/18/2025,Tablet,Electronics,92682,7,648774
+8/18/2025,Tablet,Electronics,30431,14,426034
+1/15/2025,Headphones,Computers,23143,4,92572
+3/2/2025,Smartphone,Accessories,2284,15,34260
+1/23/2025,Mouse,Computers,4042,18,72756
+1/31/2025,Smartphone,Computers,98095,19,1863805
+1/8/2025,Mouse,Computers,41780,7,292460
+6/2/2025,Smartphone,Office Supplies,40360,5,201800
+9/15/2025,Router,Accessories,26142,12,313704
+8/8/2025,Webcam,Office Supplies,52748,5,263740
+5/31/2025,Smartphone,Accessories,81253,2,162506
+8/11/2025,Webcam,Electronics,50526,6,303156
+2/12/2025,Laptop,Computers,60352,8,482816
+9/28/2025,Headphones,Office Supplies,96733,13,1257529
+9/8/2025,Keyboard,Office Supplies,63757,16,1020112
+7/27/2025,Router,Accessories,60268,18,1084824
+3/27/2025,Headphones,Accessories,4139,13,53807
+6/7/2025,Keyboard,Accessories,9310,18,167580
+2/2/2025,Printer,Accessories,94662,3,283986
+5/21/2025,Webcam,Electronics,41536,5,207680
+5/9/2025,Printer,Electronics,93843,20,1876860
+7/19/2025,Headphones,Electronics,29364,15,440460
+2/26/2025,Headphones,Electronics,26623,13,346099
+4/22/2025,Mouse,Computers,2213,19,42047
+3/11/2025,Laptop,Electronics,31568,4,126272
+8/28/2025,Smartphone,Accessories,82251,1,82251
+6/11/2025,Smartphone,Accessories,8084,7,56588
+8/29/2025,Headphones,Office Supplies,75346,12,904152
+7/13/2025,Monitor,Electronics,85827,14,1201578
+6/16/2025,Tablet,Accessories,68658,15,1029870
+5/18/2025,Laptop,Office Supplies,60062,4,240248
+2/15/2025,Mouse,Computers,3773,1,3773
+1/1/2025,Keyboard,Computers,27359,15,410385
+2/4/2025,Smartphone,Office Supplies,89278,8,714224
+9/11/2025,Webcam,Accessories,55395,18,997110
+4/11/2025,Printer,Accessories,65234,10,652340
+6/30/2025,Smartphone,Computers,43626,12,523512
+5/21/2025,Mouse,Electronics,91220,4,364880
+7/17/2025,Webcam,Office Supplies,66118,11,727298
+5/20/2025,Smartphone,Office Supplies,19415,4,77660
+5/30/2025,Router,Office Supplies,36745,7,257215
+8/26/2025,Smartphone,Accessories,69279,20,1385580
+5/30/2025,Keyboard,Accessories,41854,6,251124
+6/12/2025,Headphones,Office Supplies,77105,8,616840
+7/8/2025,Monitor,Office Supplies,28857,13,375141
+7/18/2025,Keyboard,Accessories,82374,12,988488
+7/22/2025,Keyboard,Accessories,99762,1,99762
+6/23/2025,Smartphone,Accessories,36943,14,517202
+8/14/2025,Printer,Electronics,1585,6,9510
+8/13/2025,Router,Computers,74155,1,74155
+2/6/2025,Smartphone,Electronics,21668,9,195012
+6/15/2025,Mouse,Accessories,85219,9,766971
+9/16/2025,Monitor,Office Supplies,78262,16,1252192
+1/23/2025,Printer,Electronics,97484,13,1267292
+6/12/2025,Tablet,Office Supplies,87392,17,1485664
+5/30/2025,Tablet,Accessories,35971,3,107913
+3/3/2025,Headphones,Electronics,65352,18,1176336
+2/13/2025,Monitor,Electronics,54714,1,54714
+3/12/2025,Router,Computers,78387,9,705483
+3/2/2025,Headphones,Electronics,59752,14,836528
+5/7/2025,Smartphone,Accessories,95553,12,1146636
+2/3/2025,Smartphone,Accessories,65156,16,1042496
+1/11/2025,Printer,Electronics,95635,20,1912700
+5/25/2025,Keyboard,Computers,53927,3,161781
+5/3/2025,Headphones,Accessories,11767,19,223573
+5/13/2025,Keyboard,Office Supplies,85920,5,429600
+4/28/2025,Mouse,Accessories,99806,8,798448
+8/3/2025,Router,Accessories,67216,8,537728
+5/23/2025,Webcam,Electronics,61090,10,610900
+9/19/2025,Smartphone,Office Supplies,42051,13,546663
+7/16/2025,Router,Office Supplies,86452,11,950972
+4/16/2025,Mouse,Accessories,83896,14,1174544
+7/18/2025,Tablet,Computers,41066,15,615990
+4/1/2025,Monitor,Office Supplies,52331,5,261655
+2/7/2025,Headphones,Computers,43165,2,86330
+5/25/2025,Tablet,Electronics,82167,3,246501
+9/6/2025,Laptop,Office Supplies,72226,10,722260
+6/4/2025,Router,Office Supplies,88657,6,531942
+7/6/2025,Headphones,Accessories,97839,4,391356
+3/17/2025,Printer,Computers,36684,2,73368
+7/16/2025,Headphones,Accessories,52593,8,420744
+7/3/2025,Tablet,Office Supplies,22698,5,113490
+4/3/2025,Smartphone,Office Supplies,93669,9,843021
+4/16/2025,Laptop,Electronics,7117,5,35585
+6/19/2025,Smartphone,Electronics,44750,11,492250
+5/14/2025,Smartphone,Computers,45959,20,919180
+6/26/2025,Webcam,Accessories,24645,1,24645
+9/22/2025,Laptop,Computers,90389,18,1627002
+8/31/2025,Router,Accessories,25159,17,427703
+8/9/2025,Smartphone,Electronics,32553,8,260424
+8/2/2025,Laptop,Computers,8292,13,107796
+3/23/2025,Tablet,Accessories,19617,11,215787
+3/13/2025,Mouse,Accessories,73014,18,1314252
+1/30/2025,Tablet,Electronics,77580,18,1396440
+7/14/2025,Webcam,Accessories,7906,15,118590
+3/13/2025,Smartphone,Accessories,78460,2,156920
+8/28/2025,Mouse,Accessories,63557,4,254228
+5/6/2025,Monitor,Accessories,26017,12,312204
+1/1/2025,Monitor,Computers,98030,18,1764540
+8/23/2025,Headphones,Accessories,56807,11,624877
+1/2/2025,Webcam,Electronics,90111,12,1081332
+4/2/2025,Smartphone,Electronics,54382,13,706966
+7/1/2025,Mouse,Office Supplies,9705,13,126165
+7/25/2025,Headphones,Accessories,78327,8,626616
+9/20/2025,Smartphone,Electronics,10262,19,194978
+3/19/2025,Smartphone,Electronics,41056,17,697952
+4/19/2025,Laptop,Electronics,51051,3,153153
+8/1/2025,Laptop,Office Supplies,57544,4,230176
+9/25/2025,Keyboard,Office Supplies,59437,18,1069866
+3/3/2025,Smartphone,Computers,74647,18,1343646
+4/21/2025,Tablet,Accessories,24894,2,49788
+4/10/2025,Keyboard,Computers,16166,4,64664
+9/27/2025,Router,Computers,2154,4,8616
+7/30/2025,Router,Computers,53487,14,748818
+5/1/2025,Keyboard,Office Supplies,87653,14,1227142
+6/21/2025,Webcam,Electronics,13247,13,172211
+1/14/2025,Keyboard,Computers,35927,18,646686
+5/28/2025,Headphones,Computers,95688,8,765504
+5/8/2025,Router,Accessories,81369,2,162738
+3/29/2025,Router,Electronics,2860,13,37180
+2/18/2025,Webcam,Computers,43017,12,516204
+3/16/2025,Headphones,Computers,90092,3,270276
+8/14/2025,Tablet,Electronics,91162,8,729296
+3/8/2025,Laptop,Electronics,77500,15,1162500
+3/29/2025,Headphones,Accessories,87665,15,1314975
+5/13/2025,Keyboard,Office Supplies,59599,4,238396
+6/10/2025,Mouse,Accessories,59614,10,596140
+2/27/2025,Smartphone,Electronics,59293,4,237172
+6/19/2025,Webcam,Computers,78155,2,156310
+7/8/2025,Mouse,Accessories,30552,10,305520
+3/13/2025,Tablet,Computers,47339,13,615407
+1/9/2025,Webcam,Computers,57703,4,230812
+5/22/2025,Mouse,Computers,78350,11,861850
+8/16/2025,Webcam,Office Supplies,9543,3,28629
+1/28/2025,Mouse,Computers,94356,8,754848
+8/8/2025,Webcam,Accessories,49580,6,297480
+8/23/2025,Smartphone,Office Supplies,1424,11,15664
+6/2/2025,Monitor,Electronics,88518,13,1150734
+8/16/2025,Laptop,Accessories,16701,2,33402
+2/16/2025,Smartphone,Accessories,14714,17,250138
+3/16/2025,Webcam,Computers,75948,19,1443012
+5/14/2025,Webcam,Electronics,60388,12,724656
+2/11/2025,Laptop,Office Supplies,38359,18,690462
+6/24/2025,Monitor,Electronics,41250,4,165000
+5/31/2025,Monitor,Electronics,38865,11,427515
+6/6/2025,Tablet,Computers,21141,8,169128
+1/19/2025,Printer,Computers,15378,9,138402
+2/1/2025,Smartphone,Computers,54573,9,491157
+8/16/2025,Laptop,Office Supplies,71719,3,215157
+4/2/2025,Mouse,Office Supplies,45305,9,407745
+5/31/2025,Mouse,Computers,72874,8,582992
+6/24/2025,Monitor,Computers,82462,12,989544
+3/21/2025,Monitor,Office Supplies,40654,13,528502
+7/7/2025,Monitor,Computers,61573,11,677303
+7/20/2025,Smartphone,Computers,45677,12,548124
+8/28/2025,Laptop,Computers,79934,10,799340
+2/2/2025,Laptop,Electronics,47556,13,618228
+7/4/2025,Smartphone,Office Supplies,86074,12,1032888
+4/3/2025,Monitor,Office Supplies,44109,11,485199
+3/10/2025,Router,Electronics,99960,9,899640
+5/13/2025,Mouse,Electronics,28656,16,458496
+6/29/2025,Headphones,Computers,74468,19,1414892
+2/13/2025,Laptop,Accessories,12139,3,36417
+3/21/2025,Tablet,Computers,91921,20,1838420
+4/15/2025,Tablet,Computers,77709,14,1087926
+9/20/2025,Monitor,Accessories,48447,14,678258
+8/26/2025,Tablet,Accessories,85280,14,1193920
+1/14/2025,Monitor,Computers,71279,9,641511
+7/22/2025,Printer,Electronics,2844,2,5688
+6/27/2025,Webcam,Computers,62153,1,62153
+6/22/2025,Laptop,Computers,93187,9,838683
+6/22/2025,Router,Office Supplies,8109,13,105417
+6/28/2025,Headphones,Office Supplies,95102,19,1806938
+4/18/2025,Monitor,Accessories,15009,13,195117
+6/22/2025,Webcam,Office Supplies,67135,13,872755
+2/13/2025,Mouse,Accessories,69077,16,1105232
+9/4/2025,Monitor,Electronics,14529,17,246993
+9/13/2025,Keyboard,Electronics,59020,14,826280
+6/29/2025,Mouse,Electronics,98432,14,1378048
+7/4/2025,Printer,Electronics,49522,18,891396
+8/5/2025,Router,Electronics,8682,12,104184
+6/12/2025,Webcam,Computers,86683,18,1560294
+2/2/2025,Monitor,Computers,99752,4,399008
+6/10/2025,Router,Office Supplies,73135,8,585080
+3/18/2025,Router,Electronics,97131,10,971310
+4/26/2025,Keyboard,Accessories,17481,14,244734
+5/24/2025,Keyboard,Computers,96247,18,1732446
+3/13/2025,Keyboard,Office Supplies,66906,13,869778
+3/25/2025,Router,Electronics,28019,18,504342
+5/16/2025,Mouse,Accessories,40224,11,442464
+7/25/2025,Headphones,Office Supplies,32926,3,98778
+9/16/2025,Router,Electronics,56319,3,168957
+8/3/2025,Router,Electronics,41205,16,659280
+6/18/2025,Monitor,Computers,50802,4,203208
+4/27/2025,Laptop,Office Supplies,24345,14,340830
+4/14/2025,Tablet,Office Supplies,3842,14,53788
+8/13/2025,Laptop,Accessories,64302,15,964530
+6/15/2025,Monitor,Electronics,19900,3,59700
+4/28/2025,Monitor,Accessories,21233,10,212330
+5/2/2025,Keyboard,Office Supplies,21979,16,351664
+9/25/2025,Keyboard,Computers,15086,15,226290
+7/7/2025,Router,Electronics,25048,6,150288
+6/30/2025,Smartphone,Computers,81069,6,486414
+6/1/2025,Router,Accessories,24933,13,324129
+1/1/2025,Smartphone,Accessories,2296,12,27552
+5/6/2025,Mouse,Electronics,84806,15,1272090
+8/29/2025,Tablet,Accessories,40121,4,160484
+9/1/2025,Tablet,Electronics,52154,17,886618
+8/6/2025,Mouse,Accessories,68675,10,686750
+7/25/2025,Webcam,Office Supplies,91435,5,457175
+1/2/2025,Laptop,Office Supplies,22165,17,376805
+5/11/2025,Printer,Accessories,11871,6,71226
+5/10/2025,Mouse,Electronics,48314,7,338198
+2/2/2025,Headphones,Accessories,68780,8,550240
+3/22/2025,Keyboard,Electronics,39808,12,477696
+7/2/2025,Smartphone,Electronics,80343,1,80343
+5/17/2025,Headphones,Computers,68491,10,684910
+2/22/2025,Monitor,Electronics,39292,12,471504
+6/18/2025,Mouse,Office Supplies,44117,14,617638
+9/13/2025,Tablet,Accessories,51469,19,977911
+7/21/2025,Printer,Accessories,67374,15,1010610
+1/19/2025,Router,Office Supplies,39086,18,703548
+8/12/2025,Mouse,Electronics,75516,18,1359288
+5/15/2025,Printer,Computers,34174,7,239218
+1/7/2025,Router,Computers,28368,18,510624
+7/9/2025,Monitor,Electronics,81511,5,407555
+7/1/2025,Printer,Electronics,69819,18,1256742
+8/13/2025,Monitor,Office Supplies,96128,4,384512
+4/30/2025,Laptop,Computers,52728,12,632736
+7/12/2025,Laptop,Office Supplies,55569,20,1111380
+7/28/2025,Headphones,Electronics,18015,10,180150
+4/18/2025,Monitor,Computers,8399,1,8399
+2/6/2025,Keyboard,Accessories,21343,9,192087
+1/27/2025,Laptop,Accessories,24300,8,194400
+8/3/2025,Monitor,Computers,27408,1,27408
+7/3/2025,Mouse,Office Supplies,27760,19,527440
+4/11/2025,Smartphone,Accessories,42398,11,466378
+4/10/2025,Tablet,Computers,32386,20,647720
+2/14/2025,Tablet,Computers,69287,5,346435
+1/21/2025,Smartphone,Accessories,13677,7,95739
+4/7/2025,Tablet,Office Supplies,37426,17,636242
+1/12/2025,Headphones,Computers,34513,13,448669
+3/18/2025,Mouse,Accessories,95828,10,958280
+3/31/2025,Mouse,Electronics,34267,6,205602
+5/28/2025,Laptop,Electronics,59032,10,590320
+4/1/2025,Tablet,Office Supplies,15660,19,297540
+2/15/2025,Mouse,Accessories,90458,12,1085496
+1/22/2025,Monitor,Electronics,87133,9,784197
+4/22/2025,Laptop,Accessories,52462,17,891854
+9/21/2025,Monitor,Office Supplies,27204,14,380856
+4/20/2025,Smartphone,Accessories,63606,19,1208514
+7/31/2025,Webcam,Electronics,85676,9,771084
+7/19/2025,Router,Office Supplies,15460,4,61840
+7/8/2025,Printer,Computers,73605,20,1472100
+8/28/2025,Mouse,Electronics,56661,14,793254
+7/20/2025,Monitor,Office Supplies,12757,7,89299
+8/22/2025,Keyboard,Office Supplies,33231,14,465234
+9/27/2025,Laptop,Electronics,91839,20,1836780
+9/20/2025,Keyboard,Electronics,26013,19,494247
+7/19/2025,Router,Office Supplies,26999,18,485982
+5/12/2025,Tablet,Electronics,71255,12,855060
+1/17/2025,Laptop,Computers,69167,7,484169
+2/28/2025,Monitor,Computers,7029,18,126522
+2/7/2025,Laptop,Office Supplies,522,19,9918
+7/5/2025,Smartphone,Computers,67709,12,812508
+6/10/2025,Headphones,Accessories,68031,12,816372
+3/3/2025,Laptop,Computers,51921,6,311526
+4/22/2025,Monitor,Computers,94833,11,1043163
+4/15/2025,Printer,Office Supplies,49945,19,948955
+7/6/2025,Router,Computers,20761,5,103805
+2/27/2025,Laptop,Accessories,62893,5,314465
+5/4/2025,Headphones,Computers,18930,5,94650
+2/20/2025,Monitor,Accessories,80103,9,720927
+5/4/2025,Smartphone,Computers,78473,3,235419
+5/23/2025,Router,Computers,98979,9,890811
+1/7/2025,Monitor,Office Supplies,619,18,11142
+4/15/2025,Smartphone,Electronics,64768,4,259072
+3/1/2025,Printer,Office Supplies,29091,2,58182
+7/14/2025,Monitor,Electronics,23854,20,477080
+8/13/2025,Router,Office Supplies,4020,8,32160
+8/3/2025,Laptop,Computers,6524,13,84812
+2/9/2025,Tablet,Office Supplies,40303,14,564242
+7/18/2025,Laptop,Electronics,67295,4,269180
+7/31/2025,Printer,Electronics,18880,19,358720
+9/17/2025,Router,Office Supplies,22347,12,268164
+1/27/2025,Monitor,Office Supplies,67835,9,610515
+8/19/2025,Monitor,Accessories,22816,9,205344
+7/1/2025,Webcam,Accessories,60587,4,242348
+7/10/2025,Tablet,Accessories,33899,18,610182
+8/5/2025,Webcam,Electronics,80542,17,1369214
+7/2/2025,Tablet,Accessories,21817,8,174536
+3/7/2025,Laptop,Office Supplies,95353,19,1811707
+3/4/2025,Headphones,Computers,66088,5,330440
+1/2/2025,Printer,Electronics,50320,3,150960
+3/2/2025,Smartphone,Electronics,96555,7,675885
+1/16/2025,Headphones,Electronics,84179,10,841790
+7/14/2025,Keyboard,Accessories,55288,5,276440
+2/1/2025,Tablet,Accessories,68764,18,1237752
+8/7/2025,Headphones,Computers,37289,1,37289
+8/10/2025,Printer,Electronics,36330,4,145320
+5/17/2025,Router,Office Supplies,95117,5,475585
+4/6/2025,Monitor,Office Supplies,65044,20,1300880
+2/4/2025,Printer,Office Supplies,54027,20,1080540
+6/24/2025,Router,Computers,73325,4,293300
+3/23/2025,Tablet,Accessories,90940,2,181880
+2/24/2025,Webcam,Accessories,92405,2,184810
+4/20/2025,Monitor,Accessories,87493,2,174986
+6/9/2025,Router,Office Supplies,21431,4,85724
+3/14/2025,Router,Accessories,78071,15,1171065
+7/14/2025,Keyboard,Computers,19039,15,285585
+6/25/2025,Monitor,Computers,65822,8,526576
+6/10/2025,Laptop,Electronics,28011,6,168066
+9/14/2025,Headphones,Accessories,71164,17,1209788
+4/1/2025,Keyboard,Accessories,84299,16,1348784
+3/3/2025,Mouse,Accessories,2094,15,31410
+5/13/2025,Laptop,Accessories,7644,10,76440
+2/18/2025,Monitor,Computers,22015,14,308210
+7/22/2025,Headphones,Electronics,66456,4,265824
+8/27/2025,Webcam,Office Supplies,15576,4,62304
+6/29/2025,Monitor,Computers,35507,4,142028
+2/14/2025,Smartphone,Office Supplies,76822,18,1382796
+3/21/2025,Smartphone,Computers,56888,14,796432
+5/23/2025,Laptop,Office Supplies,8341,20,166820
+8/7/2025,Webcam,Electronics,38002,14,532028
+1/12/2025,Tablet,Computers,95330,18,1715940
+4/24/2025,Laptop,Accessories,70058,16,1120928
+2/21/2025,Router,Electronics,74303,2,148606
+1/8/2025,Printer,Computers,37784,1,37784
+7/25/2025,Tablet,Office Supplies,9177,19,174363
+2/22/2025,Mouse,Computers,99926,8,799408
+7/25/2025,Tablet,Office Supplies,16633,16,266128
+3/9/2025,Printer,Computers,64906,10,649060
+4/28/2025,Tablet,Office Supplies,91008,18,1638144
+6/15/2025,Keyboard,Office Supplies,19598,9,176382
+8/18/2025,Keyboard,Electronics,88311,5,441555
+5/10/2025,Smartphone,Electronics,67031,10,670310
+2/26/2025,Smartphone,Electronics,35763,5,178815
+3/3/2025,Monitor,Accessories,2538,16,40608
+8/30/2025,Keyboard,Computers,67005,4,268020
+2/22/2025,Headphones,Electronics,51259,2,102518
+9/2/2025,Printer,Office Supplies,85594,14,1198316
+8/23/2025,Webcam,Office Supplies,66871,18,1203678
+4/16/2025,Printer,Office Supplies,94762,4,379048
+3/27/2025,Printer,Office Supplies,35484,6,212904
+5/11/2025,Tablet,Office Supplies,75544,14,1057616
+5/8/2025,Monitor,Computers,72825,14,1019550
+5/27/2025,Laptop,Office Supplies,11801,13,153413
+7/4/2025,Monitor,Office Supplies,27334,4,109336
+4/21/2025,Keyboard,Computers,66855,10,668550
+8/10/2025,Laptop,Office Supplies,26377,15,395655
+7/17/2025,Mouse,Office Supplies,69486,3,208458
+5/2/2025,Keyboard,Office Supplies,39108,4,156432
+8/1/2025,Router,Computers,87763,20,1755260
+5/18/2025,Laptop,Accessories,88351,15,1325265
+5/17/2025,Laptop,Office Supplies,46900,12,562800
+5/11/2025,Mouse,Accessories,71143,18,1280574
+6/12/2025,Headphones,Electronics,62051,19,1178969
+2/4/2025,Tablet,Accessories,3720,13,48360
+7/12/2025,Printer,Office Supplies,29655,14,415170
+8/16/2025,Keyboard,Computers,30165,15,452475
+4/24/2025,Keyboard,Electronics,21081,8,168648
+2/16/2025,Headphones,Computers,47054,10,470540
+4/20/2025,Laptop,Accessories,60083,4,240332
+6/4/2025,Printer,Office Supplies,20048,2,40096
+8/28/2025,Laptop,Office Supplies,95549,6,573294
+9/23/2025,Printer,Accessories,94018,15,1410270
+9/4/2025,Monitor,Accessories,86191,6,517146
+6/10/2025,Printer,Office Supplies,99565,4,398260
+6/14/2025,Printer,Electronics,20047,5,100235
+4/19/2025,Printer,Office Supplies,39704,6,238224
+5/22/2025,Printer,Electronics,33230,1,33230
+9/12/2025,Monitor,Computers,77801,13,1011413
+2/13/2025,Keyboard,Accessories,76442,20,1528840
+4/11/2025,Laptop,Office Supplies,77756,17,1321852
+6/5/2025,Tablet,Office Supplies,76711,10,767110
+3/10/2025,Monitor,Accessories,96398,13,1253174
+4/19/2025,Router,Computers,42412,9,381708
+3/4/2025,Headphones,Accessories,17466,9,157194
+1/15/2025,Webcam,Accessories,10996,16,175936
+5/25/2025,Monitor,Electronics,39431,4,157724
+3/8/2025,Tablet,Computers,7660,2,15320
+5/3/2025,Keyboard,Office Supplies,72430,15,1086450
+5/17/2025,Smartphone,Office Supplies,51059,19,970121
+2/18/2025,Mouse,Accessories,58623,16,937968
+4/6/2025,Laptop,Office Supplies,65044,6,390264
+4/16/2025,Smartphone,Electronics,84206,7,589442
+1/24/2025,Webcam,Accessories,35352,17,600984
+5/3/2025,Headphones,Electronics,29082,3,87246
+3/1/2025,Mouse,Computers,94459,7,661213
+6/12/2025,Tablet,Office Supplies,83832,9,754488
+5/12/2025,Headphones,Accessories,43295,17,736015
+9/12/2025,Smartphone,Office Supplies,12015,14,168210
+9/15/2025,Webcam,Accessories,82194,1,82194
+8/15/2025,Mouse,Computers,92756,1,92756
+5/10/2025,Tablet,Office Supplies,79793,14,1117102
+4/18/2025,Monitor,Accessories,42523,4,170092
+4/18/2025,Keyboard,Electronics,69655,17,1184135
+1/27/2025,Webcam,Office Supplies,82372,20,1647440
+3/18/2025,Monitor,Computers,42535,5,212675
+1/11/2025,Tablet,Accessories,81801,18,1472418
+8/20/2025,Router,Electronics,90804,9,817236
+2/27/2025,Webcam,Office Supplies,20005,12,240060
+1/14/2025,Keyboard,Electronics,22468,2,44936
+3/21/2025,Keyboard,Accessories,43880,13,570440
+3/2/2025,Headphones,Accessories,80028,4,320112
+6/18/2025,Monitor,Accessories,58451,10,584510
+8/11/2025,Webcam,Accessories,84644,18,1523592
+4/28/2025,Tablet,Computers,17534,1,17534
+3/29/2025,Mouse,Electronics,62232,4,248928
+4/15/2025,Mouse,Electronics,4049,1,4049
+2/21/2025,Printer,Office Supplies,16450,15,246750
+4/4/2025,Router,Office Supplies,7605,14,106470
+1/21/2025,Printer,Computers,92529,17,1572993
+6/23/2025,Mouse,Electronics,89513,2,179026
+9/3/2025,Keyboard,Accessories,50846,1,50846
+8/20/2025,Router,Office Supplies,14292,18,257256
+4/24/2025,Headphones,Accessories,76460,5,382300
+5/8/2025,Printer,Office Supplies,45328,19,861232
+2/16/2025,Keyboard,Computers,98325,19,1868175
+5/25/2025,Keyboard,Accessories,36958,11,406538
+8/16/2025,Monitor,Computers,53805,13,699465
+2/4/2025,Headphones,Office Supplies,96411,11,1060521
+2/8/2025,Keyboard,Computers,42305,10,423050
+1/14/2025,Smartphone,Electronics,28365,19,538935
+9/21/2025,Mouse,Electronics,69873,17,1187841
+6/17/2025,Printer,Electronics,84572,17,1437724
+9/3/2025,Monitor,Electronics,10505,5,52525
+8/19/2025,Router,Electronics,2078,14,29092
+5/8/2025,Webcam,Electronics,95051,7,665357
+5/11/2025,Printer,Electronics,57158,8,457264
+7/11/2025,Webcam,Electronics,58293,19,1107567
+9/28/2025,Keyboard,Office Supplies,47028,18,846504
+2/7/2025,Headphones,Accessories,87275,7,610925
+7/14/2025,Printer,Computers,35157,4,140628
+7/15/2025,Keyboard,Electronics,74513,6,447078
+6/30/2025,Printer,Accessories,89177,20,1783540
+6/30/2025,Monitor,Electronics,48380,9,435420
+8/14/2025,Headphones,Accessories,89075,11,979825
+5/31/2025,Tablet,Accessories,86526,14,1211364
+4/27/2025,Printer,Electronics,65147,4,260588
+4/1/2025,Printer,Accessories,32750,5,163750
+5/20/2025,Headphones,Computers,24988,16,399808
+5/18/2025,Laptop,Accessories,57656,4,230624
+6/15/2025,Keyboard,Electronics,8584,2,17168
+7/26/2025,Laptop,Accessories,43339,3,130017
+5/10/2025,Keyboard,Electronics,74816,12,897792
+6/12/2025,Keyboard,Accessories,93022,17,1581374
+5/11/2025,Laptop,Computers,4057,19,77083
+6/30/2025,Tablet,Computers,99251,19,1885769
+7/14/2025,Laptop,Computers,20817,12,249804
+7/12/2025,Smartphone,Office Supplies,29038,17,493646
+4/17/2025,Monitor,Computers,16968,17,288456
+7/12/2025,Headphones,Electronics,15366,12,184392
+9/19/2025,Headphones,Computers,52719,4,210876
+6/16/2025,Tablet,Computers,8106,5,40530
+5/20/2025,Router,Electronics,98737,15,1481055
+4/17/2025,Tablet,Accessories,65960,20,1319200
+7/12/2025,Printer,Computers,74223,6,445338
+1/5/2025,Mouse,Accessories,99015,2,198030
+1/21/2025,Printer,Electronics,85520,9,769680
+9/11/2025,Monitor,Office Supplies,39360,17,669120
+8/7/2025,Keyboard,Electronics,79163,7,554141
+4/5/2025,Headphones,Electronics,56921,19,1081499
+4/1/2025,Tablet,Electronics,12785,4,51140
+4/19/2025,Laptop,Office Supplies,25037,6,150222
+1/31/2025,Monitor,Computers,83886,11,922746
+3/24/2025,Laptop,Computers,22842,5,114210
+9/20/2025,Router,Accessories,55367,14,775138
+4/1/2025,Tablet,Accessories,31250,18,562500
+9/25/2025,Router,Office Supplies,96919,6,581514
+1/30/2025,Keyboard,Computers,63612,2,127224
+5/20/2025,Laptop,Accessories,32105,13,417365
+2/13/2025,Smartphone,Office Supplies,9774,14,136836
+5/6/2025,Monitor,Office Supplies,54307,4,217228
+5/2/2025,Tablet,Electronics,95215,18,1713870
+9/1/2025,Router,Electronics,89027,5,445135
+5/28/2025,Mouse,Electronics,38952,12,467424
+1/5/2025,Headphones,Accessories,48380,6,290280
+3/12/2025,Printer,Accessories,11729,4,46916
+3/25/2025,Printer,Computers,35002,9,315018
+8/23/2025,Monitor,Electronics,26776,8,214208
+2/23/2025,Printer,Accessories,40404,12,484848
+3/18/2025,Headphones,Accessories,43139,16,690224
+9/16/2025,Mouse,Accessories,58520,18,1053360
+2/21/2025,Keyboard,Accessories,20742,8,165936
+6/10/2025,Printer,Office Supplies,99204,1,99204
+5/22/2025,Router,Office Supplies,638,3,1914
+9/5/2025,Mouse,Office Supplies,16552,7,115864
+8/14/2025,Webcam,Computers,59306,8,474448
