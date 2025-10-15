@@ -1,4 +1,4 @@
-date(yyyy-mm-dd),product,category,price,quantity sold,total sales
+date,product,category,price,quantity sold,total_sale
 3/5/2025,Headphones,Computers,50969,1,50969
 2/8/2025,Monitor,Computers,46594,16,745504
 3/31/2025,Laptop,Accessories,53765,3,161295
